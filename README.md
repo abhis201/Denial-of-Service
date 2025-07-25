@@ -9,9 +9,7 @@ A Denial-of-Service (DoS) attack aims to make a machine or network resource unav
 ## Features
 
 - Example DoS attack scripts (for research/educational use)
-- Mitigation techniques and detection scripts
 - Documentation on DoS types, prevention, and impact
-- Sample datasets for testing detection algorithms
 - Tools for analyzing network traffic related to DoS
 
 ## Installation
